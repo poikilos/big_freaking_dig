@@ -1,4 +1,4 @@
-# Improve linquist's detection of the repo's language by excluding non-code files.
+# Improve linguist's detection of the repo's language by excluding non-code files.
 *.blend* -linguist-detectable
 
 # Auto detect text files and perform LF normalization
